@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MateS90s/CobotInterfaceTest.git/static/css/main.aca7b4d6.css",
+    "main.js": "/MateS90s/CobotInterfaceTest.git/static/js/main.1fd7058d.js",
+    "static/js/453.3e1c986a.chunk.js": "/MateS90s/CobotInterfaceTest.git/static/js/453.3e1c986a.chunk.js",
+    "index.html": "/MateS90s/CobotInterfaceTest.git/index.html",
+    "main.aca7b4d6.css.map": "/MateS90s/CobotInterfaceTest.git/static/css/main.aca7b4d6.css.map",
+    "main.1fd7058d.js.map": "/MateS90s/CobotInterfaceTest.git/static/js/main.1fd7058d.js.map",
+    "453.3e1c986a.chunk.js.map": "/MateS90s/CobotInterfaceTest.git/static/js/453.3e1c986a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca7b4d6.css",
+    "static/js/main.1fd7058d.js"
+  ]
+}
