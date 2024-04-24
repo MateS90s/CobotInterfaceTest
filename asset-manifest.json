@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CobotInterfaceTest/static/css/main.61fc5149.css",
-    "main.js": "/CobotInterfaceTest/static/js/main.35010478.js",
+    "main.js": "/CobotInterfaceTest/static/js/main.f18abab9.js",
     "static/js/453.3e1c986a.chunk.js": "/CobotInterfaceTest/static/js/453.3e1c986a.chunk.js",
     "index.html": "/CobotInterfaceTest/index.html",
     "main.61fc5149.css.map": "/CobotInterfaceTest/static/css/main.61fc5149.css.map",
-    "main.35010478.js.map": "/CobotInterfaceTest/static/js/main.35010478.js.map",
+    "main.f18abab9.js.map": "/CobotInterfaceTest/static/js/main.f18abab9.js.map",
     "453.3e1c986a.chunk.js.map": "/CobotInterfaceTest/static/js/453.3e1c986a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61fc5149.css",
-    "static/js/main.35010478.js"
+    "static/js/main.f18abab9.js"
   ]
 }
